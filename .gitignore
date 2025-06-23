@@ -1,0 +1,9 @@
+# Ignorer les node_modules des deux dossiers
+backend/node_modules/
+maninday/node_modules/
+
+# Ignorer d'autres fichiers temporaires (optionnel)
+*.log
+.env
+.DS_Store
+
